@@ -1,0 +1,5 @@
+x = int(input())
+y = int(input())
+z = int(input())
+total = x + z*(y*12)
+print(total)
